@@ -1,6 +1,6 @@
-# 🛒 ShopSmart – Demo Video Description
+#  ShopSmart – Demo Video Description
 
-## 🎬 DEMO VIDEO OVERVIEW
+##  DEMO VIDEO OVERVIEW
 
 Welcome to the demo of **ShopSmart: Your Digital Grocery Store Experience**, a full-stack grocery web application developed using **Angular**, **Node.js**, **Express.js**, and **MongoDB**.
 
@@ -8,7 +8,7 @@ This video walkthrough demonstrates the complete functionality for **Customers**
 
 ---
 
-## 👤 Customer Module
+##  Customer Module
 
 - Register or login as a customer
 - Browse products by category or search by name
@@ -20,7 +20,7 @@ This video walkthrough demonstrates the complete functionality for **Customers**
 
 ---
 
-## 🧑‍🍳 Seller Module
+##  Seller Module
 
 - Login with seller credentials
 - Add new products with images, stock, category, and price
@@ -30,7 +30,7 @@ This video walkthrough demonstrates the complete functionality for **Customers**
 
 ---
 
-## 🛠️ Admin Module
+##  Admin Module
 
 - Secure admin login
 - View and manage all users and sellers
