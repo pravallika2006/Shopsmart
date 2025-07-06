@@ -1,12 +1,12 @@
-# 🛒 ShopSmart: Your Digital Grocery Store Experience
+#  ShopSmart: Your Digital Grocery Store Experience
 
 ShopSmart is a full-stack web application designed to reimagine online grocery shopping. It offers a seamless, secure, and intuitive experience for both customers and administrators. With responsive design, rich product features, and real-time functionality, ShopSmart empowers users to browse, shop, and manage groceries efficiently — from anywhere.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🧍‍♂️ User Side
+###  User Side
 
 - Account registration & login
 - Explore products by category
@@ -16,7 +16,7 @@ ShopSmart is a full-stack web application designed to reimagine online grocery s
 - Track orders & order history
 - Leave feedback & product reviews
 
-### 🛠️ Admin Side
+###  Admin Side
 
 - Admin login with secure authentication
 - Add/update/remove product listings
@@ -26,6 +26,6 @@ ShopSmart is a full-stack web application designed to reimagine online grocery s
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 The application follows a **modular microservice architecture** with distinct services for authentication, cart, catalog, user management, and payment — all orchestrated via an API Gateway.
