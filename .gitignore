@@ -1,0 +1,8 @@
+# Ignore node_modules from both client and server
+Project Codes/client/node_modules/
+Project Codes/server/node_modules/
+
+# Ignore cache or build artifacts
+.cache/
+Project Codes/client/.cache/
+Project Codes/client/node_modules/.cache/
